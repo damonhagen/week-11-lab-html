@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.full-box {
+    background-color: red;
+    padding: 25px 575px;
+    
+   
+}
+
+.middle-box{
+    background-color: green;
+    padding: 40px 60px;
+    text-align: center;
+    color: white;
+   
+
+}
+
+body {
+    background-color: black;
+    height: 2500px;
+}
+
+.menu {
+    background-color: white;
+    text-align: center; 
+   
+}
+
+.intro{
+    color: white;
+    border: dotted blue;
+    text-align: center;    
+    margin: 100px 500px;
+    border-radius: 5px;
+    padding: 20px 45px;
+}
+
+
+    
+   
+
+
+
+    
+    
+
+}
